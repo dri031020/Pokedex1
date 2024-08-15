@@ -20,6 +20,10 @@ Este projeto é uma Pokédex interativa, desenvolvida como parte das disciplinas
 - **Visual Studio Code (VS Code):** Ambiente de desenvolvimento utilizado.
 - **GitHub:** Controle de versão e hospedagem do código-fonte.
 - **Vercel:** Plataforma utilizada para a hospedagem e deploy contínuo da aplicação.
+  
+## Acesso📲
+
+- O acesso a pokédex é realizada pela plataforma Vercel, via link a seguir
 
 ## Instalação ⚙️
 
