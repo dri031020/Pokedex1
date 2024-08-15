@@ -23,7 +23,7 @@ Este projeto é uma Pokédex interativa, desenvolvida como parte das disciplinas
   
 ## Acesso📲
 
-- O acesso a pokédex é realizada pela plataforma Vercel, via link a seguir
+- O acesso a pokédex é realizada pela plataforma Vercel, via link a seguir https://adrianepokedex.vercel.app/
 
 ## Instalação ⚙️
 
