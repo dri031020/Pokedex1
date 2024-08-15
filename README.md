@@ -1,5 +1,7 @@
-# Pokédex 
-![image](https://user-images.githubusercontent.com/84812552/233459737-46aa426a-7c0a-439c-8ebc-b0a6ca89ba01.png)
+# Pokédex <img src="https://adrianepokedex.vercel.app/images/pokedex.png" width="25" />
+<img src="https://adrianepokedex.vercel.app/images/pokedex.png" width="250" />
+
+
 ## Descrição 📝
 
 Este projeto é uma Pokédex interativa, desenvolvida como parte das disciplinas de Programação Web 1 (PW1) e Programação Web 2 (PW2), administradas pelo professor Jacques. O objetivo é fornecer uma interface amigável para pesquisar e visualizar informações sobre os Pokémons, utilizando HTML, CSS e JavaScript.
