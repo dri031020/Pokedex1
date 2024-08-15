@@ -4,7 +4,7 @@
 
 ## Descrição 📝
 
-Este projeto é uma Pokédex interativa, desenvolvida como parte das disciplinas de Programação Web 1 (PW1) e Programação Web 2 (PW2), administradas pelo professor Jacques. O objetivo é fornecer uma interface amigável para pesquisar e visualizar informações sobre os Pokémons, utilizando HTML, CSS e JavaScript.
+Este projeto é uma Pokédex interativa, desenvolvida como parte das disciplinas de Programação Web 1 (PW1) e Programação Web 2 (PW2), administradas pelo professor Jacques Simões Da Silva Junior. O objetivo é fornecer uma interface amigável para pesquisar e visualizar informações sobre os Pokémons, utilizando HTML, CSS e JavaScript.
 
 ## Funcionalidades ✨
 
@@ -55,4 +55,4 @@ Contribuições são bem-vindas! Se você tem sugestões ou melhorias, sinta-se 
 
 ## Agradecimentos 🙏
 
-Agradeço ao professor Jacques pelas orientações ao longo das disciplinas de PW1 e PW2, que possibilitaram a criação deste projeto.
+Agradeço ao professor Jacques Simões Da Silva Junior pelas orientações ao longo das disciplinas de PW1 e PW2, que possibilitaram a criação deste projeto.
